@@ -1,0 +1,14 @@
+/Users/wh1zze/Documents/School/CSharp/YTMembers/bin/Debug/net9.0/YTMembers
+/Users/wh1zze/Documents/School/CSharp/YTMembers/bin/Debug/net9.0/YTMembers.deps.json
+/Users/wh1zze/Documents/School/CSharp/YTMembers/bin/Debug/net9.0/YTMembers.runtimeconfig.json
+/Users/wh1zze/Documents/School/CSharp/YTMembers/bin/Debug/net9.0/YTMembers.dll
+/Users/wh1zze/Documents/School/CSharp/YTMembers/bin/Debug/net9.0/YTMembers.pdb
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.AssemblyInfoInputs.cache
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.AssemblyInfo.cs
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.csproj.CoreCompileInputs.cache
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.dll
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/refint/YTMembers.dll
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.pdb
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/YTMembers.genruntimeconfig.cache
+/Users/wh1zze/Documents/School/CSharp/YTMembers/obj/Debug/net9.0/ref/YTMembers.dll
